@@ -1,0 +1,17 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Data files
+*.csv
+*.zip
+
+# Logs
+logs/
+
+# Model files
+LoRA-Gemma3-model/
+merged-LoRA-Gemma3-model/
