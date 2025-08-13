@@ -11,7 +11,7 @@ You can find a detailed description of the project by reading my Medium article:
 
 This project was featured by Google for Developers. You can find the post [here](https://www.linkedin.com/posts/googledevelopers_struggling-to-gauge-market-sentiment-activity-7356800131146358786-THaL).
 
-![Gemma in finance](./gemma.png)
+![Gemma in finance](./google.png)
 
 ## Introduction
 
